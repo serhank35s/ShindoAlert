@@ -65,7 +65,18 @@ SMS permission is for sending user-approved SMS to emergency contact during an e
 Example for Step 2:![IMG-20251001-WA0010](https://github.com/user-attachments/assets/66d896fc-bbb2-4dbb-9294-0422752ec81a)
 2a-)	![IMG-20251001-WA0004](https://github.com/user-attachments/assets/1e540d94-432c-4354-adce-5d2a46accfd2)
 
-3.
+3.After adding an emergency contact, we return to the main screen of the application with the back button. Here, we are greeted by Google Maps and a list below it. The red markers on the map show the earthquake, the green marker shows the user's location. Data from JMA (Japan Meteorology Agency) is listed, and then we can print it if we want by selecting an item from the list (Wi-Fi print).
+3a-) ![IMG-20251001-WA0008](https://github.com/user-attachments/assets/697d7cab-5f88-4b60-90a5-d3f811c54485)
+3b-) ![IMG-20251001-WA0011](https://github.com/user-attachments/assets/f40b7214-5e27-4e8f-864c-643a2e172539)
+
+4.Finally, when an earthquake is detected, JMA data and the phone's accelerometer are used. First, the earthquake condition is checked. If it's not, it's perceived as a false alarm and isn't triggered. However, if it's >4.0, it first examines the JMA data to see if there's been an earthquake in the area that's experienced it before. If not, it detects it as a new earthquake and displays a warning message to the user. It provides earthquake information such as intensity, magnitude, and depth. Three options are available: 1. Mirror Screen (so you can follow along with your family on your TV). 2. Print (printing details as evidence for emergency services). 3. 119 (Japan Emergency Line) is user-approved. Meanwhile, if the battery is <20%, the "I'm safe" + location information is sent to the emergency contact. In case you're offline, the data is stored in the cache while you're online, keeping you up-to-date when offline.
+4a-) ![IMG-20251001-WA0009](https://github.com/user-attachments/assets/93509e96-ce68-44aa-b27a-6dbfb136dcfb)
+4b-) ![IMG-20251001-WA0012](https://github.com/user-attachments/assets/05e31104-c40b-4593-801a-3beacafce184)
+4c-) ![IMG-20251001-WA0013](https://github.com/user-attachments/assets/653e4de6-97b9-4d34-b0c2-875284ccacdb)
+4d-) ![IMG-20251001-WA0014](https://github.com/user-attachments/assets/611070c6-e4d1-490c-b3b5-15b548cfb47c)
+4e-) ![IMG-20251001-WA0014](https://github.com/user-attachments/assets/397e940c-2bdb-493e-86ad-6bc381e13522)
+4f-) ![IMG-20251001-WA0015](https://github.com/user-attachments/assets/d4f2f5bb-4357-44b1-b401-8b10753132a7)
+
 
 Project Resources
 	•	JMA Data Source: https://www.jma.go.jp/bosai/quake/data/list.json
