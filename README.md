@@ -56,8 +56,9 @@ Usage Steps;
 
 1.When the application is first opened, it first directs you to the emergency contact adding page. Here, the emergency contact's name, surname, and phone number are added. After adding the contact, it is saved through the "Contact Added" popup. Then, with a single click, it is possible to edit it, with a long press, it is possible to delete it (with user approval). Adding one contact is mandatory. (The data stored in the white rectangle is personal information).
 Example for Step 1:
-1a-) 	
-1b-)	![IMG-20251001-WA0007](https://github.com/user-attachments/assets/00a3b8dc-7ef6-4fb5-add7-cc275b9150c7)
+1a-) 	![IMG-20![IMG-20251001-WA0001](https://github.com/user-attachments/assets/ca373e47-e76f-4665-8277-f2bfb100d9c3)
+1b-)	![IMG-20251001-WA0002](https://github.com/user-attachments/assets/7f400877-0df1-416a-a821-093adcf44d6d)
+
 1c-)	![IMG-20251001-WA0006](https://github.com/user-attachments/assets/23d318ec-bf35-4a0e-863f-1f035516522d)
 2.Camera permission is for flash warning (visually impaired) and 
 SMS permission is for sending user-approved SMS to emergency contact during an earthquake.
