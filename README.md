@@ -92,6 +92,14 @@ Print Details On Paper![IMG-20251001-WA0015](https://github.com/user-attachments
 
 Project Resources
 	•	JMA Data Source: https://www.jma.go.jp/bosai/quake/data/list.json
+	- YouTube : https://youtu.be/nqPAhxHHGss?si=UDAu6Rzp1KGEWHaR Page(Official):https://www.youtube.com/@SerhanKırca
+	- Youtube : https://www.youtube.com/@BlueskyCybersecurity(Defensive Cybersecurity)
+	- Youtube : https://www.youtube.com/@RedskyCybersecurity(Offensive Cybersecurity)
+	-LinkedIN: https://www.linkedin.com/in/serhan-k%C4%B1rca-29365b2b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+	- Medium: https://medium.com/@serhankirca
+	- Instagram(Official): https://instagram.com/s_kirca2000
+	- Instagram(Official): https://instagram.com/bluesky_cybersecurity
+	- Instagram(Official): https://instagram.com/redsky_cybersecurity
 
 ⸻
 
