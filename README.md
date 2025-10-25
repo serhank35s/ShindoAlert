@@ -52,6 +52,20 @@ Installation & Usage
 
 ⸻
 
+Usage Steps;
+
+1.When the application is first opened, it first directs you to the emergency contact adding page. Here, the emergency contact's name, surname, and phone number are added. After adding the contact, it is saved through the "Contact Added" popup. Then, with a single click, it is possible to edit it, with a long press, it is possible to delete it (with user approval). Adding one contact is mandatory. (The data stored in the white rectangle is personal information).
+Example for Step 1:
+1a-) 	
+1b-)	![IMG-20251001-WA0007](https://github.com/user-attachments/assets/00a3b8dc-7ef6-4fb5-add7-cc275b9150c7)
+1c-)	![IMG-20251001-WA0006](https://github.com/user-attachments/assets/23d318ec-bf35-4a0e-863f-1f035516522d)
+2.Camera permission is for flash warning (visually impaired) and 
+SMS permission is for sending user-approved SMS to emergency contact during an earthquake.
+Example for Step 2:![IMG-20251001-WA0010](https://github.com/user-attachments/assets/66d896fc-bbb2-4dbb-9294-0422752ec81a)
+2a-)	![IMG-20251001-WA0004](https://github.com/user-attachments/assets/1e540d94-432c-4354-adce-5d2a46accfd2)
+
+3.
+
 Project Resources
 	•	JMA Data Source: https://www.jma.go.jp/bosai/quake/data/list.json
 
